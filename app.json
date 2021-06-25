@@ -1,0 +1,12 @@
+{
+  "name": "react-test-rcn",
+  "displayName": "react-test-rcn",
+  "expo": {
+    "name": "react-test-rcn",
+    "slug": "react-test-rcn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
